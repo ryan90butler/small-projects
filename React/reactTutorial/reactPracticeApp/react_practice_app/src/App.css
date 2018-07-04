@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+.App-title {
+  font-size: 75px;
+  color: #7f0848;
+  }
+
+ .sub-title {
+  font-size: 40px;
+  color: #778080;
+  }
+
+.Login-Button {
+  font-size: 30px;
+  background:  black;
+  color: white;
+  border: none;
+  margin: auto;
+  width: 50%;
+  padding:  4px;
+  border-radius:  4px;
+  margin-top: 10px;
+  outline: none;
+
+}
+
+.Login-Container{
+  width: 100%;
+  text-align: center;
+  align-items: center;
+}
+
+.App-LoginBox {
+  width: 30%;
+  margin:  auto;
+  text-align: left;
+  border: solid 3px purple;
+  padding: 33px;
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255,0.7);
+}
+
+.LoginField {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 25px;
+  border: none;
+  margin-left: 0%;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.App-intro {
+  font-size: large;
+}
